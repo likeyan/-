@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1C29BEA7-82CA-415A-835A-2A39E7A62C06</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MediaStreamPlayAndDownload</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>d3b33442-203a-4b98-a023-85834f8d8bd5</key>
+		<string>http://192.168.88.8/qfproj/teachers/oyangjian/MediaStreamPlayAndDownload</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MediaStreamPlayAndDownload.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>d3b33442-203a-4b98-a023-85834f8d8bd5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>d3b33442-203a-4b98-a023-85834f8d8bd5</key>
+		<string>http://192.168.88.8/qfproj</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.88.8/qfproj/teachers/oyangjian/MediaStreamPlayAndDownload/MediaStreamPlayAndDownload.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>d3b33442-203a-4b98-a023-85834f8d8bd5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>d3b33442-203a-4b98-a023-85834f8d8bd5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E6%B5%81%E5%AA%92%E4%BD%93%E8%BE%B9%E6%92%AD%E6%94%BE%E8%BE%B9%E4%BF%9D%E5%AD%98</string>
+		</dict>
+	</array>
+</dict>
+</plist>
